@@ -1,0 +1,548 @@
+[
+  {
+    "query": "Creative team collaborating on web project",
+    "image_info": {
+      "url": "https://www.reliablesoft.net/wp-content/uploads/2021/10/digital-marketing-team.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 70544,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9369354478190813,
+      "file_name": "creative-team-meeting-digital-agency.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly captures a modern, collaborative team meeting in what looks like a digital agency setting. The group is diverse, engaged, and using technology (laptops, tablets) consistent with a web project collaboration. The lighting and composition are professional and high-quality.",
+      "file_name": "creative-team-meeting-digital-agency.jpg",
+      "caption": "A diverse group of young creative professionals collaborating around a large wooden table in a modern office space, discussing a web project with laptops and tablets.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Creative team collaborating on web project",
+    "image_info": {
+      "url": "https://static.stacker.com/s3fs-public/styles/sar_screen_maximum_large/s3/images/stories/2026/03/11/webfx_how-to-know-if-a-digital-marketing-agency-is-good.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 206359,
+      "width": 1080,
+      "height": 770,
+      "total_pixels": 831600,
+      "basic_score": 0.9318578002108369,
+      "file_name": "overhead-view-creative-team-meeting-digital-agency.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "This image perfectly captures the essence of a digital agency team meeting. The overhead perspective provides a clear view of the diverse team members collaborating with various digital and physical tools like laptops, tablets, and analytics charts. The composition is professional, well-lit, and high-quality.",
+      "file_name": "overhead-view-creative-team-meeting-digital-agency.jpg",
+      "caption": "A high-angle, overhead photograph of a diverse team of six creative professionals collaborating on a web project around a large black table in a modern office, featuring laptops, tablets, and data visualization charts.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Creative team collaborating on web project",
+    "image_info": {
+      "url": "https://www.cyprussummit.com/wp-content/uploads/2026/02/The-digital-marketing-conference-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 46515,
+      "width": 612,
+      "height": 422,
+      "total_pixels": 258264,
+      "basic_score": 0.7718076501097193,
+      "file_name": "creative-team-collaborating-web-project.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt. It depicts a diverse, professional creative team collaborating intensely on a project using a laptop in a modern, bright office environment. The composition is excellent, and the image is clear without any watermarks.",
+      "file_name": "creative-team-collaborating-web-project.jpg",
+      "caption": "A diverse group of three creative professionals in a digital agency gathered around a laptop, collaborating and discussing a web development project in a modern office setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Creative team collaborating on web project",
+    "image_info": {
+      "url": "https://www.benchmarkone.com/wp-content/uploads/2022/03/digital-marketing-team.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 1131432,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9533378805153132,
+      "file_name": "creative-team-collaborating-web-project.jpg_81"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly captures a collaborative atmosphere typical of a modern digital agency or creative team. The subjects appear genuinely engaged in their work, looking at laptop screens in a bright, professional yet casual setting. The resolution and lighting are excellent, and there are no watermarks.",
+      "file_name": "creative-team-collaborating-web-project.jpg",
+      "caption": "A group of creative professionals gathered around a wooden table, focused on laptops during a team meeting for a web project in a bright, modern workspace.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Creative team collaborating on web project",
+    "image_info": {
+      "url": "https://paintedrobot.com/wp-content/uploads/2020/08/The-Benefits-of-Hiring-a-Digital-Marketing.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 78364,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8863808347313878,
+      "file_name": "business-meeting-handshake-office.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 65.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image shows a professional business meeting or interview setting with a handshake, which fits the general 'team meeting' query. However, it lacks specific visual cues related to a 'digital agency' or 'creative collaboration on a web project'—there are no visible screens with designs or code, and the tone is more formal/corporate than creative. The image quality is excellent, clear, and free of watermarks.",
+      "file_name": "business-meeting-handshake-office.jpg",
+      "caption": "A professional business meeting scene featuring a woman shaking hands with a colleague or client at a minimalist white desk, with a male colleague smiling in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern web design workspace with computer screens showing code",
+    "image_info": {
+      "url": "https://static.wixstatic.com/media/c4d3b0_3b883e1fa4b64d48a3d703c947b1152e~mv2.jpg/v1/fill/w_822,h_662,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WBM_JC.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 75423,
+      "width": 822,
+      "height": 662,
+      "total_pixels": 544164,
+      "basic_score": 0.8639027319712688,
+      "file_name": "modern-web-design-creative-workspace.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 70.0,
+      "overall_score": 88.0,
+      "explanation": "The image is a perfect match for a creative web design workspace. However, the screen displays UI/UX wireframes rather than actual code as requested in the prompt. The 'JUBIE CREATIVE' text on the wall acts as a prominent brand element, which may limit its use for general purposes, but the overall aesthetic and professional lighting are excellent.",
+      "file_name": "modern-web-design-creative-workspace.jpg",
+      "caption": "A sophisticated and modern web design workspace featuring an iMac displaying UI design layouts, a tablet, and elegant stationery on a marble desk, set against a classic paneled wall with creative studio branding.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern web design workspace with computer screens showing code",
+    "image_info": {
+      "url": "https://www.cidcreative.com/assets/img/hero-creative-studio.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 236772,
+      "width": 1600,
+      "height": 900,
+      "total_pixels": 1440000,
+      "basic_score": 0.9010945263163801,
+      "file_name": "creative-web-design-workspace-dual-monitor.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 70.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is a high-quality, aesthetically pleasing representation of a creative workspace, which aligns well with the search query. However, it fails to meet the specific requirement of the prompt to show 'code' on the screens, as both monitors are turned off. Despite this, it's a professional and well-composed shot.",
+      "file_name": "creative-web-design-workspace-dual-monitor.jpg",
+      "caption": "A modern and creative home office setup featuring a long wooden desk with two computer monitors, ergonomic chairs, vibrant wall art, and several indoor plants, all bathed in natural light from a central window.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern web design workspace with computer screens showing code",
+    "image_info": {
+      "url": "https://www.th3design.co.uk/wp-content/uploads/2024/04/colours-in-web-design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 130758,
+      "width": 1600,
+      "height": 1075,
+      "total_pixels": 1720000,
+      "basic_score": 0.823392345359301,
+      "file_name": "modern-creative-web-design-workspace-purple-lighting.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image captures a very modern and creative workspace that fits the search query well. However, the screen displays a gallery of images rather than code as specifically requested in the prompt. The aesthetic quality and lighting are excellent.",
+      "file_name": "modern-creative-web-design-workspace-purple-lighting.jpg",
+      "caption": "A modern and creative workspace featuring an Apple iMac with a gallery of purple-themed images on the screen, illuminated by vibrant pink ambient backlighting. The desk includes a white mechanical keyboard, a mug, and various decorative items.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern web design workspace with computer screens showing code",
+    "image_info": {
+      "url": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1488574675/www.steelcase.com/2017/03/03/04_Ideation-Hub-Mosaic.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 174418,
+      "width": 1166,
+      "height": 656,
+      "total_pixels": 764896,
+      "basic_score": 0.9205306082661477,
+      "file_name": "creative-modern-workspace-design-collage.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image captures the essence of a 'creative workspace' very well, featuring mood boards, collaborative areas, and modern office design. However, it does not specifically show 'computer screens showing code' as requested in the prompt; instead, it shows design layouts and general digital interfaces. As a collage, it is visually engaging but may be too busy for some specific use cases.",
+      "file_name": "creative-modern-workspace-design-collage.jpg",
+      "caption": "A vibrant collage of a modern creative office environment, featuring collaborative meeting spaces with large touchscreens, mood boards, colorful decor, and professionals working on digital design projects.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Devices showing responsive website design",
+    "image_info": {
+      "url": "https://mockupfree.co/wp-content/uploads/free-responsive-design-devices-mockup-in-psd-g.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 38522,
+      "width": 530,
+      "height": 658,
+      "total_pixels": 348740,
+      "basic_score": 0.7991555839821916,
+      "file_name": "responsive-devices-mockup-white-screens.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "This image is an excellent representation of a responsive devices mockup. It features a desktop monitor, laptop, tablet, and smartphone, providing a complete set for showcasing responsive design. The clarity is perfect, and there are no watermarks or distracting elements.",
+      "file_name": "responsive-devices-mockup-white-screens.jpg",
+      "caption": "A clean, professional 3D mockup of multiple electronic devices including a desktop computer, a laptop, a tablet, and a smartphone, all with blank white screens on a neutral gray background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Devices showing responsive website design",
+    "image_info": {
+      "url": "https://www.mockupworld.co/wp-content/uploads/2017/02/responsive-web-design-mockup-free-psd.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 56334,
+      "width": 1024,
+      "height": 633,
+      "total_pixels": 648192,
+      "basic_score": 0.884378815084089,
+      "file_name": "responsive-website-design-devices-mockup.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfect match for the search query and prompt, showcasing a responsive website design across a laptop, tablet, and smartphone. The composition is clean, professional, and free of any watermarks.",
+      "file_name": "responsive-website-design-devices-mockup.jpg",
+      "caption": "A professional mockup featuring a laptop, tablet, and smartphone displaying a responsive fashion website design against a minimalist grey background with decorative green plants.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Devices showing responsive website design",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-psd/mockup-front-view-isolated-responsive-devices-screens_225210-347.jpg?semt=ais_hybrid&w=740&q=80",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 25793,
+      "width": 740,
+      "height": 555,
+      "total_pixels": 410700,
+      "basic_score": 0.8221437957831043,
+      "file_name": "responsive-devices-mockup-laptop-tablet-phone.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 85.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a laptop, tablet, and smartphone with a consistent, responsive design. The composition is clean and professional. There is a small 'IMAGE NOT INCLUDED' disclaimer at the bottom, which is common for mockups but slightly detracts from a perfect watermark score.",
+      "file_name": "responsive-devices-mockup-laptop-tablet-phone.jpg",
+      "caption": "A high-quality mockup featuring a laptop, a tablet, and a smartphone displaying a minimalist responsive website design against a soft beige background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Devices showing responsive website design",
+    "image_info": {
+      "url": "https://www.mockupworld.co/wp-content/uploads/2018/05/free-responsive-mockup-macbook-ipad-imac-psd.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 44300,
+      "width": 1024,
+      "height": 640,
+      "total_pixels": 655360,
+      "basic_score": 0.8855967633319645,
+      "file_name": "responsive-devices-mockup-white-background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is a high-quality, professional mockup of a desktop monitor, laptop, and tablet, perfectly matching the search query for 'responsive devices mockup'. However, it does not strictly meet the prompt's requirement of 'showing' a website design as the screens are blank. It serves as an excellent template for designers to overlay their own work.",
+      "file_name": "responsive-devices-mockup-white-background.jpg",
+      "caption": "A high-resolution mockup of three electronic devices—a desktop computer, a laptop, and a tablet—arranged on a clean white background with blank black screens.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Devices showing responsive website design",
+    "image_info": {
+      "url": "https://goodmockups.com/wp-content/uploads/2020/09/Free-Responsive-Screen-Devicess.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 99644,
+      "width": 1600,
+      "height": 1161,
+      "total_pixels": 1857600,
+      "basic_score": 0.7791837952440999,
+      "file_name": "responsive-website-design-devices-mockup.jpg_25"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 40.0,
+      "overall_score": 78.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a responsive website design across a laptop, two tablets, and a smartphone. The composition is professional and the resolution is high. However, it contains a large, prominent 'FREE MOCKUP' badge in the upper right corner which limits its immediate professional use without editing.",
+      "file_name": "responsive-website-design-devices-mockup.jpg",
+      "caption": "A professional isometric mockup featuring a laptop, two tablets, and a smartphone displaying a minimalist responsive website design for a brand named 'ayas' against a neutral grey background with blurred greenery in the foreground.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Abstract floating geometric shapes for background",
+    "image_info": {
+      "url": "https://images.pexels.com/photos/33839920/pexels-photo-33839920/free-photo-of-vibrant-abstract-3d-floating-shapes-in-purple-and-blue.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 52062,
+      "width": 1125,
+      "height": 750,
+      "total_pixels": 843750,
+      "basic_score": 0.9194038492434188,
+      "file_name": "abstract-3d-floating-oval-shapes-background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image is a perfect match for the search query and prompt. It is a high-quality 3D render of abstract, floating oval shapes with a professional aesthetic. The lighting, shadows, and subtle textures create a sense of depth and realism, making it ideal for use as a background.",
+      "file_name": "abstract-3d-floating-oval-shapes-background.jpg",
+      "caption": "A high-quality 3D render featuring a cluster of floating, textured oval shapes in shades of purple and blue, creating a dynamic abstract background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern website analytics dashboard on screen",
+    "image_info": {
+      "url": "https://www.octoboard.com/assets/imports/octocat/octo-web-analytics-dashboard.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 244122,
+      "width": 1324,
+      "height": 786,
+      "total_pixels": 1040664,
+      "basic_score": 0.9347422333488532,
+      "file_name": "modern-website-analytics-dashboard-interface.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt. it is a high-quality, professional screenshot of a modern website analytics dashboard (Octo Web Analytics) featuring a clean UI, various data visualizations like maps, line graphs, and donut charts, and clear typography.",
+      "file_name": "modern-website-analytics-dashboard-interface.jpg",
+      "caption": "A comprehensive and modern website analytics dashboard displaying metrics such as sessions by country, user trends, pageviews, traffic mediums, and device usage in a clean, professional UI layout.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern website analytics dashboard on screen",
+    "image_info": {
+      "url": "https://assets.technologyadvice.com/uploads/2024/03/AgencyAnalytics-Web-Analytics-Dashboard.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 237588,
+      "width": 1209,
+      "height": 868,
+      "total_pixels": 1049412,
+      "basic_score": 0.9357196338993785,
+      "file_name": "modern-website-analytics-dashboard-interface.jpg_c2"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 85.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a perfect match for the search query and prompt, showing a clean, modern website analytics dashboard. It features a professional layout with line graphs, donut charts, and key performance indicators. There is a brand logo in the top left and a placeholder logo in the dashboard, which is standard for software screenshots.",
+      "file_name": "modern-website-analytics-dashboard-interface.jpg",
+      "caption": "A clean and modern web analytics dashboard displaying various metrics such as sessions, engagement rate, and traffic sources through interactive charts and data widgets.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern website analytics dashboard on screen",
+    "image_info": {
+      "url": "https://assets.qlik.com/image/upload/w_1790/q_auto/qlik/glossary/dashboard-examples/seo-marketing-dashboards-web-analytics-dashboard_uki6lh.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 96254,
+      "width": 1790,
+      "height": 950,
+      "total_pixels": 1700500,
+      "basic_score": 0.8205944009851946,
+      "file_name": "modern-website-analytics-dashboard.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 92.0,
+      "watermark_score": 40.0,
+      "overall_score": 88.0,
+      "explanation": "The image perfectly matches the search query and prompt, displaying a comprehensive and modern website analytics interface. It includes essential metrics like visits, bounce rate, and geographical data. While the image is clear and professional, it prominently features the 'MARKETING 360' brand logo, which functions as a watermark.",
+      "file_name": "modern-website-analytics-dashboard.jpg",
+      "caption": "A professional website analytics dashboard interface featuring key performance indicators such as total visits, bounce rate, and session duration, alongside detailed line graphs and regional traffic bar charts.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern website analytics dashboard on screen",
+    "image_info": {
+      "url": "https://blog.coupler.io/wp-content/uploads/2025/04/web-analytics-dashboard-looker-studio.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 105786,
+      "width": 1664,
+      "height": 1012,
+      "total_pixels": 1683968,
+      "basic_score": 0.8165473166313727,
+      "file_name": "modern-website-analytics-dashboard-ui.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 55.0,
+      "watermark_score": 100.0,
+      "overall_score": 70.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a comprehensive website analytics dashboard with various charts and metrics. However, the resolution is quite low, resulting in pixelation and making smaller text difficult to read.",
+      "file_name": "modern-website-analytics-dashboard-ui.jpg",
+      "caption": "A comprehensive web analytics dashboard displaying key metrics such as total users, sessions, and revenue, along with various data visualizations including line graphs for daily traffic and bar charts for monthly trends.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Happy business owner with laptop success",
+    "image_info": {
+      "url": "https://globalpartnerstraining.com/wp-content/uploads/2020/06/iStock-826040844-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 35012,
+      "width": 1254,
+      "height": 836,
+      "total_pixels": 1048344,
+      "basic_score": 0.928038850489239,
+      "file_name": "customer-satisfaction-business-strategy-quote.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant to the search query 'customer satisfaction success' as it features a clear, impactful quote about customer strategy. While it does not include a laptop as requested in the prompt, the professional composition and thematic alignment make it a strong visual for business success topics.",
+      "file_name": "customer-satisfaction-business-strategy-quote.jpg",
+      "caption": "A close-up of a person holding a lime green sticky note that reads 'A SATISFIED CUSTOMER IS THE BEST BUSINESS STRATEGY OF ALL' with a smiling man in soft focus in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Happy business owner with laptop success",
+    "image_info": {
+      "url": "https://cc-west-blog-assets.s3.amazonaws.com/uploads/2021/06/customer-satisfaction-tips-better-content-for-business-sucess-blog-1.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 420491,
+      "width": 1098,
+      "height": 632,
+      "total_pixels": 693936,
+      "basic_score": 0.9188788146261347,
+      "file_name": "customer-satisfaction-success-thumbs-up.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 65.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 75.0,
+      "explanation": "The image is highly relevant to the search query 'customer satisfaction success' as it features a diverse group of people with giant thumbs-up icons. However, it fails to meet the specific prompt requirement of featuring a 'laptop'. It is a high-quality, clean vector illustration suitable for general business success themes.",
+      "file_name": "customer-satisfaction-success-thumbs-up.jpg",
+      "caption": "A vibrant flat vector illustration of a diverse group of happy professionals celebrating success and positive feedback with large yellow thumbs-up symbols.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
